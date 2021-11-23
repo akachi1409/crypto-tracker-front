@@ -1,5 +1,5 @@
 const Constants = {
-    SERVER_URL: "http://localhost:5000",
+    SERVER_URL: "https://crypto-tracker-backend-app.herokuapp.com/",
     Status : {
         NONE: 'NONE',
         REQUEST: 'REQUEST',
